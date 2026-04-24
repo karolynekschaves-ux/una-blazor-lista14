@@ -7,7 +7,7 @@
                  1°│ C:\Users\user>cd nome_pasta
                  2°│ C:\Users\user\nome_pasta>cd nome_subpasta
                  3°│ C:\Users\user\nome_pasta\nome_subpasta>dotnet run --launch-profile https (HTTPS para evitar erros)
-                 4°│info: Microsoft.Hosting.Lifetime[14]
+                 4°│      info: Microsoft.Hosting.Lifetime[14]
                           Now listening on: https://localhost:0000 (Ctrl + click do mouse ou copie e cole no navegador)
 
 • Tecnologia utilizada nesse projeto foi o dotnet blazorwasm (Cria um WebAssembly ideal para projetos estaticas)
